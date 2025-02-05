@@ -75,7 +75,7 @@ type output.json  # Windows
 ["1", "2", "BIG", "4", "BANG", "BIG", "7", "8", "BIG", "BANG", ..., "BIGBANG"]
 
 
-📧 Contact
+# 📧 Contact
 👤 Hafizatul Afiqah
 📩 afqhzai02@gmail.com
 🔗 https://github.com/afiqahzai
