@@ -77,5 +77,7 @@ type output.json  # Windows
 ---
 # 📧 Contact
 👤 Hafizatul Afiqah
-📩 afqhzai02@gmail.com
-🔗 https://github.com/afiqahzai
+📩 Email: afqhzai02@gmail.com
+🔗 GitHub: https://github.com/afiqahzai
+
+
